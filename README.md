@@ -1,7 +1,5 @@
 # Disease Detection based on Symptoms
 
-Referred : 
-[Blog on Medium](https://rahul-maheshmaheshwari.medium.com/disease-detection-based-on-symptoms-with-treatment-recommendation-with-scrapped-data-set-54e6be60a3d1)
 
 # Introduction
 This project uses novel techniques of Machine learning and IR techniques to detect diseases based on symptoms and provide more details about the top fetched diseases including treatment recommendation.
